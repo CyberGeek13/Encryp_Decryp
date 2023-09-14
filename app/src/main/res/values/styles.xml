@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="editTextPassword">
+        <item name="android:textColorHint">#40FFFFFF</item> <!-- Set the hint text color to white -->
+    </style>
+
+    <style name="placeholders">
+        <item name="android:textColorHint">#A9A9A9</item> <!-- Set the hint text color to white -->
+    </style>
+
+</resources>
